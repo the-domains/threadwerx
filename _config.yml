@@ -1,0 +1,28 @@
+name: threadwerx
+favicon: null
+layout_spectrum: 0.7688441118225455
+typography_spectrum: 0.9129895612131804
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.08192506665363908
+  lightness: 0.25983174820430577
+  saturation: 0.8354087525513023
+  rhythmicContrast: 0.39954630052670836
+purpose: []
